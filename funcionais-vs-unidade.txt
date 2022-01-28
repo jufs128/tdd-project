@@ -1,0 +1,1 @@
+Testes de unidade testam a menor unidade, como um método ou função, enquanto testes funcionais testam blocos. Além disso, testes funcionais são sempre caixa-preta, diferente de dos de unidade
